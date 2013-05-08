@@ -54,9 +54,9 @@
 
 <!--*[Indexに戻る](#toIndex)*-->
 
-### [ウェブサイトの背景](id:toBG)
-
 ---
+
+### [ウェブサイトの背景](id:toBG)
 
 ![Wallpaper]
 
