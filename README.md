@@ -126,7 +126,7 @@ tumblr <http://johiroshi.tumblr.com/post/43561277163/ver-up>
 
 JO Hiroshi
 
-Mail : <kennedy.icu@gmail.com>
+Mail : <designbysociety@gmail.com>
 
 Website : <http://joh.webcrow.jp/>
 
