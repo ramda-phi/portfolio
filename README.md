@@ -72,7 +72,7 @@
 		* シンプルなウェブサイトを作成すること
 	
 	
-	* 備考：単にメニューを下る、従来のウェブサイト構造を打破し、ウェブサイトのコンテンツをキーワードを背景として利用
+	* 備考：単にメニューを下る、従来のウェブサイト構造を打破し、ウェブサイトのコンテンツのキーワードを背景として利用
 
 <!--*[Indexに戻る](#toIndex)*-->
 
@@ -191,6 +191,8 @@
 > Github : <https://github.com/ramda-phi>
 
 > SoundCloud : <https://soundcloud.com/johiroshi>
+
+######  copyright © 2013 johirosi all rights reserved.
 
 <!--[トップページへ戻る](#toTop)-->
 
